@@ -16,7 +16,7 @@ https://financial-fraud-detection-zidio3.streamlit.app/
 
 ### 🔗 GitHub Repository
 
-https://github.com/laharisetty29/RetailPulse-AI-Customer-Analytics-and-Demand-Forecasting
+https://github.com/laharisetty29/Financial-Fraud-Detection
 
 ---
 ## 🎯 Objectives

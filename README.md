@@ -175,7 +175,7 @@ python train_model.py
 ### Run the Streamlit Application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---

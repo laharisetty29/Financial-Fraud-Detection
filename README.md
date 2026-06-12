@@ -205,15 +205,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📄 Resume Highlights
-
-* Developed a Machine Learning-based Financial Fraud Detection System using Python and Scikit-learn.
-* Performed data preprocessing, feature engineering, and fraud pattern analysis on financial transaction data.
-* Built a predictive model to classify fraudulent and legitimate transactions.
-* Created an interactive application for fraud detection and transaction monitoring.
-
----
-
 ## 👩‍💻 Author
 
 **Lahari Gadamsetty**
